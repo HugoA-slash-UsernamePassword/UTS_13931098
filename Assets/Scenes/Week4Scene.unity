@@ -165,6 +165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   redObj: {fileID: 4037237900159913890, guid: 5e8029d28314dc443b03e049f7b4a9f5, type: 3}
+  blueObj: {fileID: 1039447499738951393, guid: 68ec10a7ff1214e49be7f34d09f8dce0, type: 3}
 --- !u!1 &681248591
 GameObject:
   m_ObjectHideFlags: 0
