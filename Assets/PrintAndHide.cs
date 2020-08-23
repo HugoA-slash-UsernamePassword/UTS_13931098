@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ConsolePrint : MonoBehaviour
+public class PrintAndHide : MonoBehaviour
 {
     int frameCounter; //AKA Time.frameCount;
+    public Renderer rend;
     void Start()
     {
         frameCounter = 0;
